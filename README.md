@@ -1,6 +1,6 @@
 # EasyDB 
 
-EasyDB, programlarında depoladıkları verileri bir yere kaydetmek isteyen ama bunu anlaşılabilir ve sade bir yolla yapmak isteyen geliştiriciler için tasarladım. Sözlük tipi kullanan bu veritabanı sistemi, kullanması aşırı basit ve büyük verileri depolayabiliyor.
+EasyDB, programlarında depoladıkları verileri bir yere kaydetmek isteyen ama bunu anlaşılabilir ve sade bir yolla yapmak isteyen geliştiriciler için yazıldı. Sözlük tipi kullanan bu veritabanı sistemi, kullanması aşırı basit ve büyük verileri depolayabiliyor.
 
 ```py
 from easydb import EasyDB
